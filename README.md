@@ -3,7 +3,7 @@
 
 <br />
 
-<h4 align="center">I’m currently working on some personal projects to develop my skillset<h4>
+<h4 align="center">I’m currently working as a freelance developer for my company Nano Studios.<h4>
 
 <br />
 
