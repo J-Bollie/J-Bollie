@@ -3,7 +3,7 @@
 
 <br />
 
-<h4 align="center">I’m currently working as a freelance developer for my company Nano Studios.<h4>
+<h4 align="center">Looking for work. Contact me on LinkedIn or email at bollenjensen@gmail.com<h4>
 
 <br />
 
