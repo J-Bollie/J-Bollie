@@ -3,7 +3,7 @@
 
 <br />
 
-<h4 align="center"><b>Currently working as a AWS Cloud Developer focussed on building scalable and performant backend applications.</b></h3>
+<h4 align="center"><b>Currently working as a AWS Cloud Developer focused on building scalable and performant backend applications.</b></h3>
 
 <br />
 
