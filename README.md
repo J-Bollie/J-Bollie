@@ -3,10 +3,6 @@
 
 <br />
 
-<h4 align="center">Looking for work. Contact me on LinkedIn or email at bollenjensen@gmail.com<h4>
-
-<br />
-
 <h3 align="center"><b>Languages and Tools:</b></h3>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="linux" width="auto" height="60"/>
